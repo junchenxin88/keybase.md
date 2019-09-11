@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am junchenxin88 on github.
+  * I am lengfeng8888 (https://keybase.io/lengfeng8888) on keybase.
+  * I have a public key ASDmpf4tI9TaLYoF1J5021QrIR_vXDsGUeMw7c__7zAqpQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e6a5fe2d23d4da2d8a05d49e74db542b211fef5c3b0651e330edcfffef302aa50a",
+      "host": "keybase.io",
+      "kid": "0120e6a5fe2d23d4da2d8a05d49e74db542b211fef5c3b0651e330edcfffef302aa50a",
+      "uid": "310aec89aeb071e545064aecc433e019",
+      "username": "lengfeng8888"
+    },
+    "merkle_root": {
+      "ctime": 1568189353,
+      "hash": "c7c55479c0fbed1a01ceec01c780a70d60a1cc2a42705d24c29871474d75788ef255a2069e02b4d65d2f3973493befcfa7e4b926e141bd169359d75e97359c43",
+      "hash_meta": "a4fbddd8c3856482048638f092ad509b7fe7e1de3d20a082b1c5f0fed02449c2",
+      "seqno": 6639744
+    },
+    "service": {
+      "entropy": "WFB9iEC6F8js/soDUKtEIHZ+",
+      "name": "github",
+      "username": "junchenxin88"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568189372,
+  "expire_in": 504576000,
+  "prev": "5562026ab60abf991ad4b892ded8d332d8720b997dafa80e30dbea8c28e5de5b",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASDmpf4tI9TaLYoF1J5021QrIR_vXDsGUeMw7c__7zAqpQo](https://keybase.io/lengfeng8888), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5qX+LSPU2i2KBdSedNtUKyEf71w7BlHjMO3P/+8wKqUKp3BheWxvYWTESpcCBsQgVWICarYKv5ka1LiS3tjTMthyC5l9r6gOMNvqjCjl3lvEIIRQxL7s/bcPU8CEzE9pOH7GIYNFz9Da2kVe+37jt3w6AgHCo3NpZ8RA++YqBWo5n/z5mAWQiRiGfXiIEnpGAXCRSUlJCh5vkxYJNzzZR5H3AlDb5JSP4V8xXJZpAnlANjH1U9MCkcZQCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGYaFeXwgCKwiwQTY/NvUttYchLpvQoYyI/dzvNpHWgBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/lengfeng8888
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id lengfeng8888
+```
